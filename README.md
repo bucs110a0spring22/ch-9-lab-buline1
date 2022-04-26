@@ -7,18 +7,19 @@
 Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+This program creates two different classes, Rectangle and Surface. The Rectangle class has variables describing the rectangles location and size while the Surface class contains a rectangle and a string related to an image. The string function within the Rectangle class turns the rectangle into a formatted string and the getRect function in the Surface class returns the rectangle object.
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: 0
 
-Grace days remaining: < # >/5
+Grace days remaining: 3/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+I don't believe there are any bugs or incomplete parts
 
 ## REFERENCES:
- < List any outside resources used >
+- Class notes
+- https://pynative.com/python-instance-variables/
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+Lab went well, no extra concerns or comments
